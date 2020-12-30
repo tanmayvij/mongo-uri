@@ -1,6 +1,6 @@
 {
   "name": "mongo-uri-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build and parse MongoDB URIs easily.",
   "main": "index.js",
   "scripts": {
