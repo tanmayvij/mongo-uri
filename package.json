@@ -1,0 +1,31 @@
+{
+  "name": "mongo-uri",
+  "version": "1.0.0",
+  "description": "Build and parse MongoDB URIs easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmayvij/mongo-uri.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongo",
+    "mongo",
+    "uri",
+    "mongodb",
+    "uri",
+    "uri",
+    "parser",
+    "uri",
+    "builder"
+  ],
+  "author": "Tanmay Vij",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanmayvij/mongo-uri/issues"
+  },
+  "homepage": "https://github.com/tanmayvij/mongo-uri#readme"
+}
