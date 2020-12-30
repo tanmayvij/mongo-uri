@@ -51,7 +51,7 @@ console.log(data);
     username: "test",
     password: "password",
     authDb: "admin",
-    srv: true,
+    srv: false,
     db: "mydb",
     port: 27017
 }
